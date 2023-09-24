@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color:  chartreuse;
+    background-color: red;
 }
 
 .logo {
@@ -54,7 +54,7 @@ input {
 
 button {
     border-radius: 5px;
-    background: #772FD3;
+    background: red;
     width: 100%;
     right: 48px;
     color: #ffffff;
@@ -78,7 +78,7 @@ section {
     border: 1px solid #772FD3;
     margin-top: 30px;
     padding: 12px;
-    background:  chartreuse;
+    background:  red;
     display: flex;
     flex-direction: column;
     align-items: center;
