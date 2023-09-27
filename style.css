@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #772FD3;
+    background-color:chartreuse;
 }
 
 .logo {
@@ -29,7 +29,7 @@ main {
 }
 
 label {
-    color: #777777;
+    color: #772FD3;
     font-weight: 400;
     font-size: 14px;
 }
@@ -38,7 +38,7 @@ select,
 input {
 
     border-radius: 4px;
-    border: 1px solid #BBBbbb;
+    border: 1px solid #772FD3;
     background: #FFfffF;
     height: 40px;
     width: 100%;
@@ -47,7 +47,7 @@ input {
     padding-left: 18px;
     font-size: 16px;
     font-weight: 700;
-    color: #555555;
+    color: #772FD3;
     cursor: pointer;
 
 }
@@ -78,7 +78,7 @@ section {
     border: 1px solid #772FD3;
     margin-top: 30px;
     padding: 12px;
-    background:rgb(255, 217, 0);
+    background:chartreuse;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -99,7 +99,7 @@ section {
 
 .currency-value,
 .currency-value-to-convert {
-    color: #777777;
+    color: #772FD3;
     font-size: 14px;
 
 
@@ -108,6 +108,6 @@ section {
 .currency {
     font-size: 20px;
     font-weight: 700;
-    color: #555555;
+    color: #772FD3;
 
 }
