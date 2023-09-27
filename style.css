@@ -52,6 +52,9 @@ input {
 
 }
 
+input::placeholder{
+    color: #772FD3;
+}
 button {
     border-radius: 5px;
     background: #772FD3;
@@ -104,6 +107,7 @@ section {
 
 
 }
+
 
 .currency {
     font-size: 20px;
