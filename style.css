@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color:chartreuse;
+    background: url("https://source.unsplash.com/1600x900/?landscape")
 }
 
 .logo {
@@ -20,7 +20,7 @@ body {
 }
 
 main {
-    width: 375px;
+    width: 290px;
     border-radius: 20px;
     background: #F4F4F4;
     margin: 0 auto 40px;
